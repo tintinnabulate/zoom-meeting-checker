@@ -26,4 +26,8 @@ See config.ini
 
 ## Running
 
-See Makefile
+Run the following
+
+```
+make run
+```
